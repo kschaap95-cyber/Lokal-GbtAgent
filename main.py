@@ -1,2 +1,2 @@
 ﻿print('Lokal-GbtAgent ready')
-zzvc
+zzvcv 
