@@ -1,0 +1,1 @@
+﻿print('Lokal-GbtAgent ready')
