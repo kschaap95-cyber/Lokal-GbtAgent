@@ -3,9 +3,13 @@ pyproject.toml
 src/lokal_agent/api/main.py
 src/lokal_agent/core/config.py
 src/lokal_agent/core/agent/protocol.py
+src/lokal_agent/core/agent/real_agent.py
 src/lokal_agent/core/agent/runner.py
+src/lokal_agent/core/indexing/indexer.py
+src/lokal_agent/core/llm/openai_client.py
 src/lokal_agent/core/storage/db.py
 src/lokal_agent/core/storage/models.py
+src/lokal_agent/core/tasks/compile_plan.py
 src/lokal_agent/ui/app.py
 src/lokal_gbtagent.egg-info/PKG-INFO
 src/lokal_gbtagent.egg-info/SOURCES.txt
